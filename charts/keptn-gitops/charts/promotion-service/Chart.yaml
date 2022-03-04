@@ -3,4 +3,4 @@ appVersion: latest
 description: Helm Chart for the keptn promotion-service
 name: promotion-service
 type: application
-version: latest
+version: 0.11.3
